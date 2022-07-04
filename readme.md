@@ -37,8 +37,8 @@
 - HTML
 - CSS
 - JS
-- Jquery
-- SweetAlert2
+- Jquery library (Pembuatan card pada section client dan slider)
+- SweetAlert2 (Animasi pop up)
 
 ## Link
 
